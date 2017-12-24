@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+    <PackageId>DownloadManager.Guardiola</PackageId>
+    <Authors>Alejandro Guardiola</Authors>
+    <Company />
+    <Product />
+    <Description>Download Manager to download data via http, multi thread.</Description>
+    <PackageProjectUrl>https://github.com/aleGuardiola/DownloadManager</PackageProjectUrl>
+    <PackageTags>download data</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
