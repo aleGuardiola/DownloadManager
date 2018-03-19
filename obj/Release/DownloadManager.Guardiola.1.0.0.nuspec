@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DownloadManager.Guardiola</id>
+    <version>1.0.0</version>
+    <authors>Alejandro Guardiola</authors>
+    <owners>Alejandro Guardiola</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/aleGuardiola/DownloadManager</projectUrl>
+    <description>Download Manager to download data via http, multi thread.</description>
+    <tags>download data</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\bin\Release\netstandard2.0\DownloadManager.dll" target="lib\netstandard2.0\DownloadManager.dll" />
+  </files>
+</package>
