@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\bin\Debug\netstandard2.0\DownloadManager.dll" target="lib\netstandard2.0\DownloadManager.dll" />
+    <file src="D:\Projects\Personal\DownloadManager\bin\Debug\netstandard2.0\DownloadManager.dll" target="lib\netstandard2.0\DownloadManager.dll" />
   </files>
 </package>

@@ -15,3 +15,11 @@ C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Debug\netstandard2.
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.AssemblyInfo.cs
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.dll
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.pdb
+D:\Projects\Personal\DownloadManager\bin\Debug\netstandard2.0\DownloadManager.deps.json
+D:\Projects\Personal\DownloadManager\bin\Debug\netstandard2.0\DownloadManager.dll
+D:\Projects\Personal\DownloadManager\bin\Debug\netstandard2.0\DownloadManager.pdb
+D:\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.AssemblyInfoInputs.cache
+D:\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.AssemblyInfo.cs
+D:\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.dll
+D:\Projects\Personal\DownloadManager\obj\Debug\netstandard2.0\DownloadManager.pdb

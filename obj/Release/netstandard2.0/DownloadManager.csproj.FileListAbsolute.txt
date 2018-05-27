@@ -10,9 +10,9 @@ C:\Users\thesk\Desktop\Projects\Personal\tmp\DownloadManager\obj\Release\netstan
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\bin\Release\netstandard2.0\DownloadManager.deps.json
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\bin\Release\netstandard2.0\DownloadManager.dll
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\bin\Release\netstandard2.0\DownloadManager.pdb
-C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.csprojResolveAssemblyReference.cache
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.csproj.CoreCompileInputs.cache
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.AssemblyInfoInputs.cache
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.AssemblyInfo.cs
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.dll
 C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.pdb
+C:\Users\thesk\Desktop\Projects\Personal\DownloadManager\obj\Release\netstandard2.0\DownloadManager.csprojResolveAssemblyReference.cache
